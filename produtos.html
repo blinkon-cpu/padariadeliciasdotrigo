@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Delícias do Trigo - Padaria Artesanal em Ceilândia</title>
+  <link rel="icon" type="image/png" href="img/logo.png">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a href="#conteudo-principal" class="skip-link">Pular para o conteúdo principal</a>
+
+  <div id="header-container"></div>
+
+  <main id="conteudo" class="container">
+    <h2>Nossos Produtos</h2>
+    <p>Selecionamos ingredientes frescos e naturais para oferecer o melhor sabor em cada receita. Confira algumas das nossas delícias artesanais:</p>
+
+    <section class="produtos-grid">
+      <article class="produto">
+        <img src="img/pao-artesanal.jpg" alt="Pão artesanal de fermentação natural" class="banner">
+        <h3>Pão Artesanal</h3>
+        <p>Crocante por fora e macio por dentro, feito com fermentação natural.</p>
+        <span class="preco">R$ 10,00</span>
+      </article>
+
+      <article class="produto">
+        <img src="img/paodequeijo.jpeg" alt="Pão de queijo" class="banner">
+        <h3>Pão de queijo</h3>
+        <p>Clássico e irresistível.</p>
+        <span class="preco">R$ 2,00</span>
+      </article>
+
+      <article class="produto">
+        <img src="img/croissant.jpeg" alt="Croissant folhado dourado" class="banner">
+        <h3>Croissant</h3>
+        <p>Com cobertura de chocolate.</p>
+        <span class="preco">R$ 8,00</span>
+      </article>
+
+      <article class="produto">
+        <img src="img/coxinha.jpeg" alt="Coxinha" class="banner">
+        <h3>Coxinha</h3>
+        <p>Crocante.</p>
+        <span class="preco">R$ 5,00</span>
+      </article>
+
+      <article class="produto">
+        <img src="img/rocambole.jpeg" alt="Rocambole" class="banner">
+        <h3>Rocambole</h3>
+        <p>Saudável e saboroso.</p>
+        <span class="preco">R$ 10,00</span>
+      </article>
+
+      <article class="produto">
+        <img src="img/rabanada.jpeg" alt="Empada de palmito dourada" class="banner">
+        <h3>Rabanada</h3>
+        <p>Recheio cremoso com massa leve e crocante.</p>
+        <span class="preco">R$ 6,00</span>
+      </article>
+    </section>
+  </main>
+
+  <div id="footer-container"></div>
+<script src="js/componentes.js"></script>
+
+<script src="js/componentes.js"></script>
+<script>
+  (async () => {
+    await carregarComponente('componentes/header.html', '#header-container');
+
+    destacarMenu();
+
+    carregarComponente('componentes/footer.html', '#footer-container');
+  })();
+</script>
+
+</body>
+</html>
+
+
