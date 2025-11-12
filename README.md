@@ -39,4 +39,61 @@ Paleta de cores:
 
 Parte 2 - 
 
+O site foi aberto no DevTools e está funcionando perfeitamente em todas as resoluções de tela.
+Não há quebra de página em nenhuma das resoluções
+As partes que se repetem são: Cabeçalho, onde está logomarca e menu e o Rodapé também se repete nas três páginas.
+Tudo está funcionando perfeitamente.
+Foi adicionado java script ao código para continuar funcionando o hover no Menu, já que o código HTML do 'componentes.js' é estático e não pode ser utilizado 'aria-current', utilizado anteriormente.
 
+O menu está funcionando bem depois da alteração no código com java script e hover.
+
+Usamos head, body, main, header e nav, article e section, e usamos footer.
+
+Todas as imagens possuem atributo 'alt'
+
+O site todo funciona com teclado, inclusive há acessibilidade skip-link ('Tab' (Conteúdo Principal).)
+
+Os títulos seguem a hierarquia. As páginas possuem título principal e subtítulo.
+
+Não possui <label> no atributo alt.
+
+Código possui 3 breakpoints de mediaqueries.
+
+Site foi testado no Lighthouse em aba de navegação anônima para resultado fidedigno. O resultado foi 79 de desempenho; 94 de acessibilidade; 100 de práticas recomendadas e 91 de SEO.
+
+Fontes do código estão em 'rem' ao invés de 'px'.
+
+Abaixo a estrutura de arquivos do projeto:
+
+deliciasdotrigofinal/
+|-- index.html
+|-- produtos.html
+|-- contato.html
+|-- componentes/
+|   |-- header.html
+|   |-- footer.html
+|-- css/
+|   |-- style.css
+|-- js/
+|   |-- components.js
+|-- img/
+|   |-- coxinha.jpeg
+|   |-- croissant.jpeg
+|   |-- logo.jpeg
+|   |-- logo.cvg
+|   |-- pao-artesanal.jpeg
+|   |-- paodequeijo.jpeg
+|   |-- rabanada.jpeg
+|   |-- rocambole.jpeg
+|-- README.md
+
+Componentes modularizados:
+Header e footer
+Estes compenentes foram modularizados para facilitar qualquer mudança posterior no projeto, utilizando apenas o recurso de componentes.
+Não precisamos de muitos ajustes. O projeto já estava bem alinhado.
+
+O desafio que encontramos foi que o nosso projeto tinha um hover no menu, e com a modularização ficaríamos sem esse recurso, já que o código é estático para funcionar em todas as páginas. Com isso utilizamos um java script para resolver o problema.
+
+Plano de melhoras:
+Implementar chat diretamente com a empresa através do site, pelo botão do whatsapp
+Implementar possibilidade de pedidos pelo site.
