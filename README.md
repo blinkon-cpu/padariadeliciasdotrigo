@@ -6,6 +6,7 @@ Acesso ao site:
 Site publicado no Git Pages: https://blinkon-cpu.github.io/padariadeliciasdotrigo/
 <img width="1891" height="995" alt="image" src="https://github.com/user-attachments/assets/70ef75da-7c49-40a2-b13e-1f415bd2d2f4" />
 
+
 A empresa Delícias do Trigo é uma padaria de origem familiar, com raízes brasileiras e portuguesas, que traz receitas tradicionais de Portugal para o coração da Ceilândia.
 
 O site foi desenvolvido com o objetivo de ampliar a presença digital da empresa, localizada na Ceilândia Norte, proporcionando maior visibilidade e expansão nas vendas online por meio do comércio eletrônico.
