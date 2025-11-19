@@ -59,7 +59,7 @@ Os títulos seguem a hierarquia. As páginas possuem título principal e subtít
 
 Não possui <label> no atributo alt.
 
-Código possui 3 breakpoints de mediaqueries.
+Código possui 3 breakpoints de media queries.
 
 Site foi testado no Lighthouse em aba de navegação anônima para resultado fidedigno. O resultado foi 79 de desempenho; 94 de acessibilidade; 100 de práticas recomendadas e 91 de SEO.
 
