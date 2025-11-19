@@ -66,7 +66,7 @@ Site foi testado no Lighthouse em aba de navegação anônima para resultado fid
 
 Fontes do código estão em 'rem' ao invés de 'px'.
 
-Abaixo a estrutura de arquivos do projeto:
+**Estrutura de arquivos**
 
 deliciasdotrigofinal/
 |-- index.html
@@ -90,7 +90,7 @@ deliciasdotrigofinal/
 |   |-- rocambole.jpeg
 |-- README.md
 
-Componentes modularizados:
+**Componentes modularizados:**
 Header e footer
 Estes compenentes foram modularizados para facilitar qualquer mudança posterior no projeto, utilizando apenas o recurso de componentes.
 Não precisamos de muitos ajustes. O projeto já estava bem alinhado.
@@ -106,13 +106,15 @@ Foi feita a mininficação do CSS, para melhoria do carregamento do site.
 As imagens do site foram otimizadas e convertidas para o formato ".webp".
 Foi implementado Lazy Loading nas imagens que aparecem mais abaixo da página, para otimizar o carregamento das imagens e do site como um todo.
 
+**Resumo**
+O projeto teve 3 partes para ser desenvolvido. Na Parte 1 implementamos o código HTML cru. Na parte 2 utilizamos o CSS3 para estilizar a página e na parte 3 fizemos alterações finais e implementamos JavaScript.
 
-Plano de melhoras:
+**Plano de melhoras:**
 Implementar chat diretamente com a empresa através do site, pelo botão do whatsapp
 Implementar possibilidade de pedidos pelo site.
 
 
-Testes realizados:
+**Testes realizados:**
 
 ---Falta escrever---
 - Lista de navegadores testados;
@@ -166,3 +168,5 @@ Cada integrante deve escrever um texto breve (pode ser em documento compartilhad
 - Como vocês superaram?
 - Se pudesse voltar no tempo, o que faria diferente?
 
+Créditos: 
+Site Canvas - Foi feito o ícone no site Canvas.
