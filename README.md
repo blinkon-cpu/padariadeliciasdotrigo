@@ -2,7 +2,7 @@ Nome do projeto: Delícias do Trigo
 
 Trabalho desenvolvido por Bárbara Beatriz Silva e Bruno Gadêlha Mariz, segue link do protótipo no Figma: https://www.figma.com/site/XR0Fbc1bMkToWZNGpxVb9a/Sem-t%C3%ADtulo?node-id=0-1&t=uvFYg9OrRNCvewsE-1
 
-Acesso ao site:
+**Acesso ao site**
 Site publicado no Git Pages: https://blinkon-cpu.github.io/padariadeliciasdotrigo/
 <img width="1891" height="995" alt="image" src="https://github.com/user-attachments/assets/70ef75da-7c49-40a2-b13e-1f415bd2d2f4" />
 
@@ -101,7 +101,7 @@ Tecnologias utilizadas no projeto foram HTML5, CSS3 e Javascript.
 
 Para rodar o projeto localmente, será necessário abrir o VSCODE com o workspace limpo. Com a pasta aberta no programa, clicar em index.html e depois clicar em Go Live, utilizando o Live Server para visualizar o site completo. Devido à modularização, os componentes JS não são mostrados quando abertos localmente (Ex: C:\MeuPC\Documentos\index.html) .
 
-Foi feita a mininficação do CSS, para melhoria do carregamento do site.
+Foi feita a minificação do CSS, para melhoria do carregamento do site.
 
 As imagens do site foram otimizadas e convertidas para o formato ".webp".
 Foi implementado Lazy Loading nas imagens que aparecem mais abaixo da página, para otimizar o carregamento das imagens e do site como um todo.
@@ -112,16 +112,14 @@ O projeto teve 3 partes para ser desenvolvido. Na Parte 1 implementamos o códig
 **Plano de melhoras:**
 Implementar chat diretamente com a empresa através do site, pelo botão do whatsapp
 Implementar possibilidade de pedidos pelo site.
+Colocar javascript com maior interação com usuário.
 
 
 **Testes realizados:**
 
----Falta escrever---
-- Lista de navegadores testados;
-- Lista de dispositivos/resoluções testadas;
-- Problemas encontrados e como foram resolvidos;
-- Limitações conhecidas (se houver);
-- Links para as pastas com prints de evidências.
+- Chrome, Internet explorer foram os navegadores testados
+- Foram testadas 3 resoluções diferentes: em Mobile, tablet, e Desktop. 
+- Foi utilizado além do computador, também um celular para fazer teste das páginas e occorreu tudo nos conformes.
 
 
 ## Reflexão Individual (Bruno)
