@@ -66,7 +66,7 @@ Site foi testado no Lighthouse em aba de navegação anônima para resultado fid
 
 Fontes do código estão em 'rem' ao invés de 'px'.
 
-Abaixo a estrutura de arquivos do projeto:
+**Estrutura de arquivos**
 
 deliciasdotrigofinal/
 |-- index.html
@@ -90,7 +90,7 @@ deliciasdotrigofinal/
 |   |-- rocambole.jpeg
 |-- README.md
 
-Componentes modularizados:
+**Componentes modularizados:**
 Header e footer
 Estes compenentes foram modularizados para facilitar qualquer mudança posterior no projeto, utilizando apenas o recurso de componentes.
 Não precisamos de muitos ajustes. O projeto já estava bem alinhado.
@@ -101,6 +101,72 @@ Tecnologias utilizadas no projeto foram HTML5, CSS3 e Javascript.
 
 Para rodar o projeto localmente, será necessário abrir o VSCODE com o workspace limpo. Com a pasta aberta no programa, clicar em index.html e depois clicar em Go Live, utilizando o Live Server para visualizar o site completo. Devido à modularização, os componentes JS não são mostrados quando abertos localmente (Ex: C:\MeuPC\Documentos\index.html) .
 
-Plano de melhoras:
+Foi feita a mininficação do CSS, para melhoria do carregamento do site.
+
+As imagens do site foram otimizadas e convertidas para o formato ".webp".
+Foi implementado Lazy Loading nas imagens que aparecem mais abaixo da página, para otimizar o carregamento das imagens e do site como um todo.
+
+**Resumo**
+O projeto teve 3 partes para ser desenvolvido. Na Parte 1 implementamos o código HTML cru. Na parte 2 utilizamos o CSS3 para estilizar a página e na parte 3 fizemos alterações finais e implementamos JavaScript.
+
+**Plano de melhoras:**
 Implementar chat diretamente com a empresa através do site, pelo botão do whatsapp
 Implementar possibilidade de pedidos pelo site.
+
+
+**Testes realizados:**
+
+---Falta escrever---
+- Lista de navegadores testados;
+- Lista de dispositivos/resoluções testadas;
+- Problemas encontrados e como foram resolvidos;
+- Limitações conhecidas (se houver);
+- Links para as pastas com prints de evidências.
+
+
+## Reflexão Individual (Bruno)
+
+Cada integrante deve escrever um texto breve (pode ser em documento compartilhado ou diretamente no README.md) respondendo:
+
+**Aprendizados Técnicos:**
+
+- Quais foram as principais habilidades técnicas que você desenvolveu? (HTML, CSS, Git, organização, etc.)
+- Qual foi a tecnologia ou conceito mais desafiador de aprender?
+- O que você domina melhor agora comparado ao início do projeto?
+
+**Aprendizados de Processo:**
+
+- Como foi trabalhar em dupla? Quais foram os desafios?
+- Como vocês organizaram as tarefas e a comunicação?
+- O que funcionou bem na metodologia da dupla?
+
+**Desafios Enfrentados:**
+
+- Qual foi o maior desafio do projeto?
+- Como vocês superaram?
+- Se pudesse voltar no tempo, o que faria diferente?
+  
+## Reflexão Individual (Bárbara)
+
+Cada integrante deve escrever um texto breve (pode ser em documento compartilhado ou diretamente no README.md) respondendo:
+
+**Aprendizados Técnicos:**
+
+- Quais foram as principais habilidades técnicas que você desenvolveu? (HTML, CSS, Git, organização, etc.)
+- Qual foi a tecnologia ou conceito mais desafiador de aprender?
+- O que você domina melhor agora comparado ao início do projeto?
+
+**Aprendizados de Processo:**
+
+- Como foi trabalhar em dupla? Quais foram os desafios?
+- Como vocês organizaram as tarefas e a comunicação?
+- O que funcionou bem na metodologia da dupla?
+
+**Desafios Enfrentados:**
+
+- Qual foi o maior desafio do projeto?
+- Como vocês superaram?
+- Se pudesse voltar no tempo, o que faria diferente?
+
+Créditos: 
+Site Canvas - Foi feito o ícone no site Canvas.
