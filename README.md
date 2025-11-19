@@ -98,20 +98,8 @@ O desafio que encontramos foi que o nosso projeto tinha um hover no menu, e com 
 
 Tecnologias utilizadas no projeto foram HTML5, CSS3 e Javascript.
 
+Para rodar o projeto localmente, será necessário abrir o VSCODE com o workspace limpo. Com a pasta aberta no programa, clicar em index.html e depois clicar em Go Live, utilizando o Live Server para visualizar o site completo. Devido à modularização, os componentes JS não são mostrados quando abertos localmente (Ex: C:\MeuPC\Documentos\index.html) .
 
 Plano de melhoras:
 Implementar chat diretamente com a empresa através do site, pelo botão do whatsapp
 Implementar possibilidade de pedidos pelo site.
-
-Parte 3
-Tecnologias 
-- Nome completo do projeto;
-- Integrantes da dupla e papel de cada um;
-- Descrição do pequeno negócio escolhido;
-- Link para o wireframe detalhado no Figma;
-- Tecnologias utilizadas (HTML5, CSS3, JavaScript, etc.);
-- Estrutura de pastas explicada;
-- Resumo das três partes do projeto (o que foi feito em cada etapa);
-- Instruções de como rodar o projeto localmente (se necessário);
-  Para rodar o projeto localmente, será necessário abrir o VSCODE com o workspace limpo. Com a pasta aberta no programa, clicar em index.html e depois clicar em Go Live, utilizando o Live Server para visualizar o site completo. Devido à modularização, os componentes JS não são mostrados quando abertos localmente (Ex: C:\MeuPC\Documentos\index.html) .
-- **Espaço reservado para o link do GitHub Pages** (vocês vão adicionar depois).
