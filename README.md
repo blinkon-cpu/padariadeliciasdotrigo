@@ -58,7 +58,7 @@ O site todo funciona com teclado, inclusive há acessibilidade skip-link ('Tab' 
 
 Os títulos seguem a hierarquia. As páginas possuem título principal e subtítulo.
 
-Não possui <label> no atributo alt.
+Não possui < label > no atributo alt.
 
 Código possui 3 breakpoints de media queries.
 
