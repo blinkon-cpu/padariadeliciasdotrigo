@@ -120,3 +120,49 @@ Testes realizados:
 - Problemas encontrados e como foram resolvidos;
 - Limitações conhecidas (se houver);
 - Links para as pastas com prints de evidências.
+
+
+## Reflexão Individual (Bruno)
+
+Cada integrante deve escrever um texto breve (pode ser em documento compartilhado ou diretamente no README.md) respondendo:
+
+**Aprendizados Técnicos:**
+
+- Quais foram as principais habilidades técnicas que você desenvolveu? (HTML, CSS, Git, organização, etc.)
+- Qual foi a tecnologia ou conceito mais desafiador de aprender?
+- O que você domina melhor agora comparado ao início do projeto?
+
+**Aprendizados de Processo:**
+
+- Como foi trabalhar em dupla? Quais foram os desafios?
+- Como vocês organizaram as tarefas e a comunicação?
+- O que funcionou bem na metodologia da dupla?
+
+**Desafios Enfrentados:**
+
+- Qual foi o maior desafio do projeto?
+- Como vocês superaram?
+- Se pudesse voltar no tempo, o que faria diferente?
+  
+## Reflexão Individual (Bárbara)
+
+Cada integrante deve escrever um texto breve (pode ser em documento compartilhado ou diretamente no README.md) respondendo:
+
+**Aprendizados Técnicos:**
+
+- Quais foram as principais habilidades técnicas que você desenvolveu? (HTML, CSS, Git, organização, etc.)
+- Qual foi a tecnologia ou conceito mais desafiador de aprender?
+- O que você domina melhor agora comparado ao início do projeto?
+
+**Aprendizados de Processo:**
+
+- Como foi trabalhar em dupla? Quais foram os desafios?
+- Como vocês organizaram as tarefas e a comunicação?
+- O que funcionou bem na metodologia da dupla?
+
+**Desafios Enfrentados:**
+
+- Qual foi o maior desafio do projeto?
+- Como vocês superaram?
+- Se pudesse voltar no tempo, o que faria diferente?
+
