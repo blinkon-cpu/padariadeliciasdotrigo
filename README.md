@@ -110,3 +110,6 @@ Foi implementado Lazy Loading nas imagens que aparecem mais abaixo da página, p
 Plano de melhoras:
 Implementar chat diretamente com a empresa através do site, pelo botão do whatsapp
 Implementar possibilidade de pedidos pelo site.
+
+
+Testes realizados:
