@@ -113,3 +113,10 @@ Implementar possibilidade de pedidos pelo site.
 
 
 Testes realizados:
+
+---Falta escrever---
+- Lista de navegadores testados;
+- Lista de dispositivos/resoluções testadas;
+- Problemas encontrados e como foram resolvidos;
+- Limitações conhecidas (se houver);
+- Links para as pastas com prints de evidências.
