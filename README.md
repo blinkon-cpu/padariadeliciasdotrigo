@@ -1,6 +1,6 @@
 Nome do projeto: Delícias do Trigo
 
-Trabalho desenvolvido por Bárbara Silva e Bruno Gadêlha Mariz, segue link do protótipo no Figma: https://www.figma.com/site/XR0Fbc1bMkToWZNGpxVb9a/Sem-t%C3%ADtulo?node-id=0-1&t=uvFYg9OrRNCvewsE-1
+Trabalho desenvolvido por Bárbara Beatriz Silva e Bruno Gadêlha Mariz, segue link do protótipo no Figma: https://www.figma.com/site/XR0Fbc1bMkToWZNGpxVb9a/Sem-t%C3%ADtulo?node-id=0-1&t=uvFYg9OrRNCvewsE-1
 
 Acesso ao site:
 Site publicado no Git Pages: https://blinkon-cpu.github.io/padariadeliciasdotrigo/
