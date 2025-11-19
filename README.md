@@ -101,6 +101,12 @@ Tecnologias utilizadas no projeto foram HTML5, CSS3 e Javascript.
 
 Para rodar o projeto localmente, será necessário abrir o VSCODE com o workspace limpo. Com a pasta aberta no programa, clicar em index.html e depois clicar em Go Live, utilizando o Live Server para visualizar o site completo. Devido à modularização, os componentes JS não são mostrados quando abertos localmente (Ex: C:\MeuPC\Documentos\index.html) .
 
+Foi feita a mininficação do CSS, para melhoria do carregamento do site.
+
+As imagens do site foram otimizadas e convertidas para o formato ".webp".
+Foi implementado Lazy Loading nas imagens que aparecem mais abaixo da página, para otimizar o carregamento das imagens e do site como um todo.
+
+
 Plano de melhoras:
 Implementar chat diretamente com a empresa através do site, pelo botão do whatsapp
 Implementar possibilidade de pedidos pelo site.
