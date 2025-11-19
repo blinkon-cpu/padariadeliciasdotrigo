@@ -5,7 +5,6 @@ Trabalho desenvolvido por Bárbara Beatriz Silva e Bruno Gadêlha Mariz, segue l
 Acesso ao site:
 Site publicado no Git Pages: https://blinkon-cpu.github.io/padariadeliciasdotrigo/
 <img width="1891" height="995" alt="image" src="https://github.com/user-attachments/assets/70ef75da-7c49-40a2-b13e-1f415bd2d2f4" />
-</br>
 
 
 A empresa Delícias do Trigo é uma padaria de origem familiar, com raízes brasileiras e portuguesas, que traz receitas tradicionais de Portugal para o coração da Ceilândia.
