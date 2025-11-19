@@ -128,21 +128,21 @@ Cada integrante deve escrever um texto breve (pode ser em documento compartilhad
 
 **Aprendizados Técnicos:**
 
-- Quais foram as principais habilidades técnicas que você desenvolveu? (HTML, CSS, Git, organização, etc.)
-- Qual foi a tecnologia ou conceito mais desafiador de aprender?
-- O que você domina melhor agora comparado ao início do projeto?
+- Quando iniciei o projeto, só entendia um pouco de html. Com os trabalhos, eu entendi o CSS e o Javascript e aprimorei meus conhecimentos, além de melhorar a organização de arquivos e pastas.
+- O CSS ainda é um pouco difíci para mim, mas já entendo um pouco do código.
+- Domino o HTML muito melhor, principalmente na estrutura do arquivo em si, utilizando as tags body, header, main, nav, article, aside, footer.
 
 **Aprendizados de Processo:**
 
-- Como foi trabalhar em dupla? Quais foram os desafios?
-- Como vocês organizaram as tarefas e a comunicação?
-- O que funcionou bem na metodologia da dupla?
+- Foi muito bom trabalhar em dupla, ainda mais com uma pessoa que entende muito bem de cores e beleza dos sites, além de ter boa organização e me ajudar a ver erros que passariam batidos.
+- Sempre nos reuníamos online ou pessoalmente e fizemos o trabalho 100% juntos.
+- Tudo funcionou muito bem.
 
 **Desafios Enfrentados:**
 
-- Qual foi o maior desafio do projeto?
-- Como vocês superaram?
-- Se pudesse voltar no tempo, o que faria diferente?
+- O maior desafio do projeto foi o Git Hub e seu terminal.
+- Superamos tendo que aprender a enviar os arquivos pelo terminal. Agora eu já entendo como ele funciona.
+- Nada faria diferente. Tudo foi feito nos conformes.
   
 ## Reflexão Individual (Bárbara)
 
