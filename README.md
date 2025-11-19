@@ -2,7 +2,9 @@ Nome do projeto: Delícias do Trigo
 
 Trabalho desenvolvido por Bárbara Silva e Bruno Gadêlha Mariz, segue link do protótipo no Figma: https://www.figma.com/site/XR0Fbc1bMkToWZNGpxVb9a/Sem-t%C3%ADtulo?node-id=0-1&t=uvFYg9OrRNCvewsE-1
 
-Site publicado: https://blinkon-cpu.github.io/padariadeliciasdotrigo/
+Acesso ao site:
+Site publicado no Git Pages: https://blinkon-cpu.github.io/padariadeliciasdotrigo/
+<img width="1891" height="995" alt="image" src="https://github.com/user-attachments/assets/70ef75da-7c49-40a2-b13e-1f415bd2d2f4" />
 
 A empresa Delícias do Trigo é uma padaria de origem familiar, com raízes brasileiras e portuguesas, que traz receitas tradicionais de Portugal para o coração da Ceilândia.
 
@@ -38,8 +40,6 @@ Paleta de cores:
 
 #b37c37 - Foco Formulário
 
-
-Parte 2 - 
 
 O site foi aberto no DevTools e está funcionando perfeitamente em todas as resoluções de tela.
 Não há quebra de página em nenhuma das resoluções
@@ -96,6 +96,22 @@ Não precisamos de muitos ajustes. O projeto já estava bem alinhado.
 
 O desafio que encontramos foi que o nosso projeto tinha um hover no menu, e com a modularização ficaríamos sem esse recurso, já que o código é estático para funcionar em todas as páginas. Com isso utilizamos um java script para resolver o problema.
 
+Tecnologias utilizadas no projeto foram HTML5, CSS3 e Javascript.
+
+
 Plano de melhoras:
 Implementar chat diretamente com a empresa através do site, pelo botão do whatsapp
 Implementar possibilidade de pedidos pelo site.
+
+Parte 3
+Tecnologias 
+- Nome completo do projeto;
+- Integrantes da dupla e papel de cada um;
+- Descrição do pequeno negócio escolhido;
+- Link para o wireframe detalhado no Figma;
+- Tecnologias utilizadas (HTML5, CSS3, JavaScript, etc.);
+- Estrutura de pastas explicada;
+- Resumo das três partes do projeto (o que foi feito em cada etapa);
+- Instruções de como rodar o projeto localmente (se necessário);
+  Para rodar o projeto localmente, será necessário abrir o VSCODE com o workspace limpo. Com a pasta aberta no programa, clicar em index.html e depois clicar em Go Live, utilizando o Live Server para visualizar o site completo. Devido à modularização, os componentes JS não são mostrados quando abertos localmente (Ex: C:\MeuPC\Documentos\index.html) .
+- **Espaço reservado para o link do GitHub Pages** (vocês vão adicionar depois).
