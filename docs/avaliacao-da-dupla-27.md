@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Rubrica: Projeto Integrador de Front-end (Parte Final)
 
 Nome do Projeto: Delícias do Trigo
@@ -524,4 +523,4 @@ Projeto excelente, meus parabéns!!
 
 
 
->>>>>>> d84d03dda1614de566cd9e800222b0fe784acf52
+
