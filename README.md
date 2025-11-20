@@ -146,25 +146,23 @@ Cada integrante deve escrever um texto breve (pode ser em documento compartilhad
   
 ## Reflexão Individual (Bárbara)
 
-Cada integrante deve escrever um texto breve (pode ser em documento compartilhado ou diretamente no README.md) respondendo:
+Durante este projeto, desenvolvi a habilidade de visualizar o design que desejo para o site e registrar essas ideias antes de iniciar a estrutura em HTML. Ainda tenho algumas dificuldades para lembrar todos os comandos de CSS, mas percebo que estou evoluindo.
+O GitHub foi a tecnologia que mais me desafiou. No entanto, com a ajuda do meu parceiro de trabalho, consegui compreender melhor como utilizá-lo.
+Acredito que o trabalho fluiu bem. Dividimos as tarefas de acordo com as habilidades de cada um e agendamos reuniões on-line e presenciais para alinhar o andamento e garantir que tudo estivesse conforme o planejado. 
+Nossa metodologia baseou-se em comunicação, planejamento e divisão de responsabilidades, seguida pela integração das partes e verificação final do projeto.
+Meu maior desafio pessoal foi lidar com a depressão. Porém, com apoio psicológico e o incentivo do meu colega de equipe, não desisti. Continuei estudando e contribuindo, mesmo que de forma mais limitada em alguns momentos.
+Outro desafio foi a publicação do site no GitHub Pages, que apresentou erros. 
+Conseguimos resolver pesquisando no ChatGPT, assistindo vídeos no YouTube e testando diferentes soluções até identificar o problema.
+Mesmo que eu pudesse voltar no tempo, não mudaria nada. Cada erro e acerto contribuiu para o conhecimento que tenho hoje. O que pretendo fazer daqui para frente é me organizar melhor para estudar mais e buscar cursos extras que complementem 
+minha formação acadêmica.
 
-**Aprendizados Técnicos:**
+**Reflexão da dupla**
 
-- Quais foram as principais habilidades técnicas que você desenvolveu? (HTML, CSS, Git, organização, etc.)
-- Qual foi a tecnologia ou conceito mais desafiador de aprender?
-- O que você domina melhor agora comparado ao início do projeto?
+O projeto ganhou interações e acessibilidades que o tornam mais atrativo e moderno. 
 
-**Aprendizados de Processo:**
-
-- Como foi trabalhar em dupla? Quais foram os desafios?
-- Como vocês organizaram as tarefas e a comunicação?
-- O que funcionou bem na metodologia da dupla?
-
-**Desafios Enfrentados:**
-
-- Qual foi o maior desafio do projeto?
-- Como vocês superaram?
-- Se pudesse voltar no tempo, o que faria diferente?
+O site agrega valor a pequenos negócios que desejam ingressar no ambiente digital, possibilitando alcançar um público maior e, futuramente, implementar serviços como 
+delivery na região.
+Venderíamos este site ao proprietário destacando que as cores, a estrutura, os ícones e as mensagens foram pensados especificamente para atrair o público-alvo dele. Com a adoção de estratégias de SEO, ele poderá aumentar significativamente o tráfego orgânico, despertando o interesse dos clientes em visitar a loja presencialmente ou em buscar informações sobre o serviço de delivery. Essa simples ação pode elevar o fluxo de clientes e, consequentemente, o faturamento bruto, desde que a qualidade dos produtos seja mantida
 
 Créditos: 
 Site Canvas - Foi feito o ícone no site Canvas.
